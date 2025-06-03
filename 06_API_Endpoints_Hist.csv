@@ -1,0 +1,10 @@
+Category,Yesterday,Last Week,Last Months
+/api/mobile/v1/branch,1704,13632,51120
+/api/mobile/v1/inquery,682,4774,18414
+/api/mobile/v1/member/notification,873,6984,19206
+/api/mobile/v1/member/register,594,3564,14850
+/api/mobile/v1/payment/code,1734,13872,50286
+/api/mobile/v1/sms/otp,1978,15824,51428
+/api/mobile/v1/statement/detail,1316,9212,28952
+/api/mobile/v1/token/refresh,1313,9191,30199
+/api/mobile/v1/version,1789,14312,39358
