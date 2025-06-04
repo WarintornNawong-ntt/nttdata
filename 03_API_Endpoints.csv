@@ -1,10 +1,10 @@
-Time,/api/mobile/v1/branch,/api/mobile/v1/inquery,/api/mobile/v1/member/notification,/api/mobile/v1/member/register,/api/mobile/v1/payment/code,/api/mobile/v1/sms/otp,/api/mobile/v1/statement/detail,/api/mobile/v1/token/refresh,/api/mobile/v1/version
-6/3/2025 13:00,1704,682,873,594,1734,1978,1316,1313,1789
-6/3/2025 14:00,1652,1739,742,1078,1397,1563,282,179,1132
-6/3/2025 15:00,1523,1135,0,0,0,1166,70,402,1096
-6/3/2025 16:00,1506,642,0,0,971,598,1871,0,547
-6/3/2025 17:00,1806,0,0,779,0,1487,8,892,1556
-6/3/2025 18:00,1335,0,474,1588,412,703,513,1980,1418
-6/3/2025 19:00,1246,664,1006,677,1723,1155,1780,301,1207
-6/3/2025 20:00,1830,1832,1411,1843,1213,1742,1825,1015,1862
-6/3/2025 21:00,1863,228,801,720,494,790,1690,1430,329
+Time,/api/check-cookie,/api/heartbeat?mode=1,/api/heartbeat?mode=2,/api/mobile/ekyc/v1/app/agree/contract,/api/mobile/ekyc/v1/app/agree/contract3,/api/mobile/ekyc/v1/app/agree/esignature,/api/mobile/ekyc/v1/app/agree/marketing,/api/mobile/ekyc/v1/app/agree/model/credit,/api/mobile/ekyc/v1/app/agree/ncb,/api/mobile/ekyc/v1/app/agree/ndid,/api/mobile/ekyc/v1/app/agree/product,/api/mobile/ekyc/v1/app/form12/register,/api/mobile/ekyc/v1/app/id/register,/api/mobile/ekyc/v1/app/id/update,/api/mobile/ekyc/v1/app/status,/api/mobile/ekyc/v1/bank/list,/api/mobile/ekyc/v1/cancel,/api/mobile/ekyc/v1/contract/pdf,/api/mobile/ekyc/v1/contract/register,/api/mobile/ekyc/v1/ins/document/upload,/api/mobile/ekyc/v1/ins/form3/register,/api/mobile/ekyc/v1/login,/api/mobile/ekyc/v1/ncb/pdf,/api/mobile/ekyc/v1/notification,/api/mobile/ekyc/v1/request,/api/mobile/ekyc/v1/status/check,/api/mobile/online/contract/v1/change/apply,/api/mobile/online/contract/v1/change/register,/api/mobile/online/contract/v1/doc/upload,/api/mobile/online/contract/v1/pdf,/api/mobile/v1/branch,/api/mobile/v1/bs/status,/api/mobile/v1/inquery,/api/mobile/v1/loan,/api/mobile/v1/loan/withdrawal,/api/mobile/v1/login,/api/mobile/v1/member/notification,/api/mobile/v1/member/register,/api/mobile/v1/member/update,/api/mobile/v1/payment/code,/api/mobile/v1/product/list,/api/mobile/v1/repayment/register,/api/mobile/v1/sms/otp,/api/mobile/v1/sms/otp/confirm,/api/mobile/v1/statement/application,/api/mobile/v1/statement/detail,/api/mobile/v1/statement/detail/pdf,/api/mobile/v1/statement/list,/api/mobile/v1/token/refresh,/api/mobile/v1/version
+6/3/2025 13:00,6,12,5,106,0,102,84,83,39,41,99,46,71,17,89,25,8,3,1,8,6,40,35,105,29,118,0,7,11,0,2489,58,5836,317,86,178,2889,153,46,249,54,63,220,237,1,65,10,53,2120,2137
+6/3/2025 14:00,4,12,7,73,1,82,74,88,47,40,83,47,41,22,95,101,13,0,0,7,8,17,21,106,25,109,2,10,8,0,2268,56,5578,368,114,195,2587,196,36,189,51,37,257,240,2,63,9,57,1961,2021
+6/3/2025 15:00,2,12,3,88,0,73,64,77,38,34,70,33,41,20,85,29,14,0,0,7,9,19,24,85,23,134,0,7,9,2,1720,62,4057,211,52,128,2007,163,26,137,37,32,171,138,0,76,4,68,1463,1573
+6/3/2025 16:00,4,12,7,61,0,52,62,53,35,34,57,32,78,19,59,27,8,0,0,1,0,14,1,71,18,152,0,3,7,0,1101,37,2538,66,13,84,1200,141,12,81,27,2,106,90,1,41,2,32,934,1005
+6/3/2025 17:00,0,12,8,30,0,29,30,26,11,12,29,14,21,4,24,12,2,0,0,0,0,7,0,24,6,79,0,1,0,0,588,10,1289,3,0,29,629,53,7,29,8,0,23,18,0,13,0,8,499,534
+6/3/2025 18:00,0,12,8,35,0,40,36,39,19,16,42,14,28,4,30,13,2,0,0,0,0,8,0,24,6,107,0,0,1,0,491,4,1016,24,9,26,477,50,4,36,6,8,35,32,0,9,0,7,382,392
+6/3/2025 19:00,0,12,6,31,0,33,29,32,0,1,33,0,21,0,44,0,0,0,0,0,0,4,2,22,0,32,0,0,0,0,426,10,1010,55,0,15,482,44,0,58,4,22,184,5,0,10,1,12,385,342
+6/3/2025 20:00,0,12,7,38,0,33,40,34,0,0,32,0,7,0,41,0,0,0,0,0,0,8,0,10,0,10,0,0,2,0,414,16,945,41,0,25,478,40,0,67,1,12,113,12,0,19,0,13,362,373
+6/3/2025 21:00,1,12,7,15,0,22,22,21,9,7,21,7,5,3,17,7,2,0,0,0,0,6,0,16,3,24,0,1,3,0,507,6,1316,35,8,56,560,57,4,88,10,22,49,28,0,14,1,6,476,463
