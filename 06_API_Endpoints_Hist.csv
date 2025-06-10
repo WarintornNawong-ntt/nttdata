@@ -1,10 +1,10 @@
 Category,Yesterday,Last Week,Last Months
-/api/mobile/v1/branch,1704,13632,51120
-/api/mobile/v1/inquery,682,4774,18414
-/api/mobile/v1/member/notification,873,6984,19206
-/api/mobile/v1/member/register,594,3564,14850
-/api/mobile/v1/payment/code,1734,13872,50286
-/api/mobile/v1/sms/otp,1978,15824,51428
-/api/mobile/v1/statement/detail,1316,9212,28952
-/api/mobile/v1/token/refresh,1313,9191,30199
-/api/mobile/v1/version,1789,14312,39358
+/api/mobile/v1/branch," 29,868 "," 190,512 "," 619,200 "
+/api/mobile/v1/inquery," 70,032 "," 468,552 "," 1,460,520 "
+/api/mobile/v1/member/notification," 34,668 "," 217,308 "," 722,520 "
+/api/mobile/v1/member/register," 1,836 "," 16,464 "," 58,680 "
+/api/mobile/v1/payment/code," 2,988 "," 15,876 "," 49,320 "
+/api/mobile/v1/sms/otp," 2,640 "," 21,588 "," 61,560 "
+/api/mobile/v1/statement/detail, 780 ," 5,292 "," 27,360 "
+/api/mobile/v1/token/refresh," 25,440 "," 164,724 "," 526,680 "
+/api/mobile/v1/version," 25,644 "," 169,764 "," 566,280 "
