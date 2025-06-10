@@ -1,4 +1,4 @@
-API List,1:00:00 PM,2:00:00 PM,3:00:00 PM,4:00:00 PM,5:00:00 PM,6:00:00 PM,7:00:00 PM,8:00:00 PM,9:00:00 PM
+API List,13 PM - 14 PM,14 PM - 15 PM,15 PM - 16 PM,16 PM - 17 PM,17 PM - 18 PM,18 PM - 19 PM,19 PM - 20 PM,20 PM - 21 PM,21 PM - 22 PM
 /api/mobile/ekyc/v1/bank/list,25,101,29,27,12,13,0,0,7
 /api/mobile/ekyc/v1/login,40,17,19,14,7,8,4,8,6
 /api/mobile/v1/branch,2489,2268,1720,1101,588,491,426,414,507
